@@ -1,12 +1,12 @@
-# Práctica de Algoritmos de Ordenamiento
+# Práctica de Algoritmos de Ordenamiento i Busqueda
 
 ## 📌 Información General
 
-- **Título:** Práctica de Algoritmos de Ordenamiento
+- **Título:** Práctica de Algoritmos de Ordenamiento y Busqueda
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Byron Xavier Ortega Delgado
-- **Fecha:** 31/3/2025
+- **Fecha:** 23/4/2025
 - **Profesor:** Ing. Pablo Torres
 
 ---
