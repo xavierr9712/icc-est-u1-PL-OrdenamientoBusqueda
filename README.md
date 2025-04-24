@@ -52,9 +52,17 @@ Para ejecutar el proyecto:
  0. salir
 Ingrese la opcion que desea resalizar:
 
+--- Métodos de Ordenamiento ---
+
 1. Ordenar por nombre ( Metodo Burbuja) "
 2. ordenar por nombre ( Metodo Selección Desendente)"
 3. Ordenar por Edad ( Metodo Insección )
 4. Ordenart por Nombre ( Metodo inserción)
+Ingrese la opcion que desea resalizar:
 
+ ---Criterios de Búsqueda ---
+
+1. Buscar por Edad
+2. Buscar por Nombre 
+Ingrese la opcion que desea resalizar:
 ---
